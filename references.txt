@@ -1,0 +1,4 @@
+1. https://github.com/shauryauppal/PyWhatsapp/blob/master/PyWhatsapp.py
+2. https://www.geekyhub.in/post/making-a-whatsapp-bot-using-python-selenium/
+3. https://github.com/harshitsidhwa/WhatsApp-bot-selenium/blob/master/whatsapp.py
+4. https://github.com/teamsempo/SempoBlockchain/blob/efaf2c66df4f0333c2015bbcfd31c320b261d92f/whatsApp/whatsapp.py
